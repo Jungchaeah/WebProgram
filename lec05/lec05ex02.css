@@ -1,0 +1,4 @@
+#w3c_static {opacity:0.2; position:static;}
+#h5_static {opacity:0.3; position:static; top:100px; left:300px;}
+#css_relative{opacity:0.5; position:relative; left:100px;}
+#css_fixed {opacity: 0.7; position: fixed; top:20px; right:30px;}
